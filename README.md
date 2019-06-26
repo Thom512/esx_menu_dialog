@@ -1,29 +1,11 @@
 # esx_menu_dialog
-Simple script used for inputs.
-
-## Download & Installation
-
-### Using [fvm](https://github.com/qlaffont/fvm-installer)
-```
-fvm install --save --folder=esx esx-org/esx_menu_dialog
-```
-
-### Using Git
-```
-cd resources
-git clone https://github.com/ESX-Org/esx_menu_dialog [esx]/esx_menu_dialog
-```
-
-### Manually
-- Download https://github.com/ESX-Org/esx_menu_dialog/archive/master.zip
-- Put it in the `[esx]` directory
 
 ## Installation
-- Add this to your `server.cfg`:
+- Remplacer votre ```esx_menu_dialog```
 
-```
-start esx_menu_dialog
-```
+## Screenshots
+![Capture](https://user-images.githubusercontent.com/51257579/60205702-2ced4c00-9852-11e9-91b4-c55d31e332cd.JPG)
+
 
 # Legal
 ### License
